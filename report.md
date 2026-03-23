@@ -1,5 +1,5 @@
 # 作业一 实验报告
-#### github链接：
+#### github链接：https://github.com/Katrinaooo/IR
 
 ## 一、实验内容
 
